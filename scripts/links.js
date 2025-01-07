@@ -1,5 +1,5 @@
-const baseURL = "https://dart1516.github.io/wdd230/";
-const linksURL = "https://dart1516.github.io/wdd230/data/links.json";
+const baseURL = "https://dart1516.github.io/wdd330/";
+const linksURL = "https://dart1516.github.io/wdd330/data/links.json";
 
 async function obtainActivitiesInformation() {
   const response = await fetch(linksURL);
