@@ -1,0 +1,114 @@
+{
+    "lessons": [
+        {
+            "lesson": "01",
+            "links": [
+                {
+                    "url": "lesson01/holygrail.html",
+                    "title": "name 1"
+                }
+            ]
+        },
+        {
+            "lesson": "02",
+            "links": [
+                {
+                    "url": "lesson02/media-query.html",
+                    "title": "name 2"
+                },
+                {
+                    "url": "lesson02/design-principles.html",
+                    "title": "name 3"
+                }
+            ]
+        },
+        {
+            "lesson": "03",
+            "links": [
+                {
+                    "url": "images/w3schools-exercise.png",
+                    "title": "name 4"
+                },
+                {
+                    "url": "lesson03/CSS-Pseudo-elements/CSS-Pseudo-elements.html",
+                    "title": "name 5"
+                },
+                {
+                    "url": "lesson03/hamburger-Menu-Exercise/hamburger-Menu.html",
+                    "title": "name 6"
+                }
+            ]
+        },
+        {
+            "lesson": "04",
+            "links": [
+                {
+                    "url": "lesson04/css-Pseudo-Classes/activity.html",
+                    "title": "name 7"
+                }
+            ]
+        },
+        {
+            "lesson": "05",
+            "links": [
+                {
+                    "url": "lesson05/bom.html",
+                    "title": "Name 8"
+                }
+            ]
+        },
+        {
+            "lesson": "06",
+            "links": [
+                {
+                    "url": "images/landscape.webp",
+                    "title": "name 9"
+                },
+                {
+                    "url": "lesson06/responsive-images.html",
+                    "title": "name 10"
+                }
+            ]
+        },
+        {
+            "lesson": "07",
+            "links": [
+                {
+                    "url": "lesson07/lazy-Loading/lazyload.html",
+                    "title": "name 11"
+                },
+                {
+                    "url": "lesson07/book-of-Mormon-Favorite-Chapters-Application/bom.html",
+                    "title": "name 12"
+                }
+            ]
+        },
+        {
+            "lesson": "08",
+            "links": [
+                {
+                    "url": "form.html",
+                    "title": "name 13"
+                }
+            ]
+        },
+        {
+            "lesson": "09",
+            "links": [
+                {
+                    "url": "lesson09/prophets.html",
+                    "title": "name 14"
+                }
+            ]
+        },
+        {
+            "lesson": "10",
+            "links": [
+                {
+                    "url": "lesson10/weather.html",
+                    "title": "name 15"
+                }
+            ]
+        }
+    ]
+}
